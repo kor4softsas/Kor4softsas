@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Puedes reemplazar este logo con la URL real de tu logo alojado en GitHub o tu web -->
-  <img src="https://landingpage.k4soft.com/Logo.png" alt="Kor4Soft Logo" width="150"/>
+  <img src="https://www.k4soft.com/Logo.png" alt="Kor4Soft Logo" width="150"/>
 
   # Kor4Soft
   **Transformamos ideas en experiencias digitales excepcionales.**
