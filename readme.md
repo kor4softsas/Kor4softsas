@@ -84,7 +84,7 @@ Convertimos tu idea en realidad en 4 pasos simples:
 ### ¿Listo para impulsar tu negocio?
 
 📬 **Contáctanos:** [kor4softsas@gmail.com](mailto:kor4softsas@gmail.com)
-📞 **Teléfono:** +57 123 456 7890
+📞 **Teléfono:** +57 (318) 188-3915
 📍 **Ubicación:** Cali, Colombia
 
 © 2025 Kor4Soft. Todos los derechos reservados.
