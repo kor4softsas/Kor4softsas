@@ -31,11 +31,11 @@ Nuestra metodología se basa en la comunicación constante, la transparencia y l
 
 Dominamos tecnologías de vanguardia para ofrecer soluciones escalables y robustas:
 
-| Frontend | Backend | Móvil | Base de Datos |
+| Frontend | Backend | Base de Datos |
 | :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
 
 ---
 
@@ -44,7 +44,6 @@ Dominamos tecnologías de vanguardia para ofrecer soluciones escalables y robust
 Ofrecemos un abanico completo de soluciones digitales:
 
 *   💻 **Desarrollo Web:** Aplicaciones modernas, escalables y de alto rendimiento (React, Next.js).
-*   📱 **Aplicaciones Móviles:** Apps nativas e híbridas para iOS y Android.
 *   ⚙️ **Automatización:** Optimización de procesos para ahorrar tiempo y reducir errores (Python).
 *   🧠 **Consultoría Tecnológica:** Asesoría técnica especializada para llevar tu proyecto al éxito.
 
@@ -69,15 +68,6 @@ Convertimos tu idea en realidad en 4 pasos simples:
 3.  👨‍💻 **Desarrollo:** Implementamos código con mejores prácticas.
 4.  🚀 **Entrega:** Lanzamiento y soporte continuo.
 
----
-
-## 🌟 Proyectos Destacados
-
-*   **Sistema de Gestión Empresarial:** Plataforma completa para inventarios y ventas (React + Node.js + MongoDB). *Aumento del 40% en productividad.*
-*   **App Móvil E-commerce:** App nativa con pasarela de pagos (React Native + Firebase). *10k+ descargas.*
-*   **Sistema de Automatización:** Herramienta de procesos empresariales (Python + Laravel). *Ahorro de 20 horas semanales.*
-
----
 
 <div align="center">
 
@@ -87,6 +77,6 @@ Convertimos tu idea en realidad en 4 pasos simples:
 📞 **Teléfono:** +57 (318) 188-3915
 📍 **Ubicación:** Cali, Colombia
 
-© 2025 Kor4Soft. Todos los derechos reservados.
+© 2026 Kor4Soft. Todos los derechos reservados.
 
 </div>
